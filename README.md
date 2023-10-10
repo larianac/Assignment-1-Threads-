@@ -1,3 +1,5 @@
+Ariana Contreras (887830263)
+
 Assignment 1: 
 
 Objective: Write a POSIX multithreaded program in C called "thread.c" that performs the following operations: Given a list of integers as input, create two separate worker threads. Thread-1 calculates the sum of all elements in the array and generates an output array with elements as (sum + array[i]). Thread-2 calculates the sum of the elements in the array and generates an output array with elements as (sum - array[i]). Collect the output of the program into a new file and submit both the code file and the output file on Canvas.
